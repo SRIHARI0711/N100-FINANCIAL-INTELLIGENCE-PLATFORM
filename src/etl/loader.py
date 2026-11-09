@@ -354,7 +354,12 @@ if __name__ == "__main__":
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s"
     )
-    print("Testing ETL Data Loaders...")
-    datasets = load_all_datasets()
-    for name, df in datasets.items():
-        print(f"Dataset '{name}': {len(df)} rows, {len(df.columns)} columns")
+    from db.loader import load_database
+
+    print("Running Full Data Ingestion & SQLite Load for N100...")
+    audit_df = load_database(reset=True)
+    print("\n" + "=" * 70)
+    print("N100 PLATFORM — LOAD AUDIT SUMMARY")
+    print("=" * 70)
+    print(audit_df.to_string(index=False))
+    print("=" * 70)

@@ -1,0 +1,1282 @@
+rule_id,table,company_id,year,field,issue,severity
+DQ-03,profitandloss,ULTRACEMCO,2013-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2014-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2015-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2016-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2017-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2018-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2019-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2020-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2021-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2022-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2023-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2024-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,PARSE_ERROR,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2013-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2014-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2015-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2016-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2017-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2018-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2019-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2020-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2021-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2022-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2023-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2024-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNIONBANK,PARSE_ERROR,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2013-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2014-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2015-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2016-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2017-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2018-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2019-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2020-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2021-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2022-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2023-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2024-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,UNITDSPR,PARSE_ERROR,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2012-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2013-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2014-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2015-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2016-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2017-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2018-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2019-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2020-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2021-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2022-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,2023-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VBL,PARSE_ERROR,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2013-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2014-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2015-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2016-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2017-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2018-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2019-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2020-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2021-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2022-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2023-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,2024-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,VEDL,PARSE_ERROR,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2013-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2014-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2015-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2016-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2017-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2018-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2019-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2020-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2021-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2022-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2023-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,2024-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,WIPRO,PARSE_ERROR,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,2018-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,2019-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,2020-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,2021-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,2022-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,2023-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,2024-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZOMATO,PARSE_ERROR,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2013-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2014-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2015-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2016-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2017-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2018-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2019-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2020-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2021-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2022-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2023-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2024-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,PARSE_ERROR,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2013-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2014-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2015-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2016-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2017-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2018-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2019-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2020-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2021-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2022-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2023-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2024-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2024-09,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2018-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2019-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2020-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2021-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2022-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2023-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2024-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,ZOMATO,2024-09,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2013-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2014-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2015-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2016-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2017-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2018-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2019-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2020-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2021-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2022-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2023-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2024-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,WIPRO,2024-09,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2013-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2014-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2015-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2016-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2017-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2018-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2019-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2020-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2021-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2022-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2023-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2024-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,VEDL,2024-09,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2013-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2014-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2015-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2016-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2017-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2018-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2019-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2020-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2021-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2022-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2023-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2024-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2024-09,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2013-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2014-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2015-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2016-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2017-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2018-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2019-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2020-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2021-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2022-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2023-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2024-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2013-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2014-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2015-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2016-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2017-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2018-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2019-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2020-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2021-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2022-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2023-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2024-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2024-09,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,AGTL,2018-03,company_id,Foreign key violation: company 'AGTL' not in companies table,CRITICAL
+DQ-03,cashflow,AGTL,2019-03,company_id,Foreign key violation: company 'AGTL' not in companies table,CRITICAL
+DQ-03,cashflow,AGTL,2020-03,company_id,Foreign key violation: company 'AGTL' not in companies table,CRITICAL
+DQ-03,cashflow,AGTL,2021-03,company_id,Foreign key violation: company 'AGTL' not in companies table,CRITICAL
+DQ-03,cashflow,AGTL,2022-03,company_id,Foreign key violation: company 'AGTL' not in companies table,CRITICAL
+DQ-03,cashflow,AGTL,2023-03,company_id,Foreign key violation: company 'AGTL' not in companies table,CRITICAL
+DQ-03,cashflow,AGTL,2024-03,company_id,Foreign key violation: company 'AGTL' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2013-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2014-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2015-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2016-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2017-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2018-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2019-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2020-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2021-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2022-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2023-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2024-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2013-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2014-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2015-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2016-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2017-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2018-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2019-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2020-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2021-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2022-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2023-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNIONBANK,2024-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2013-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2014-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2015-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2016-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2017-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2018-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2019-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2020-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2021-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2022-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2023-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,UNITDSPR,2024-03,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2012-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2013-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2014-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2015-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2016-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2017-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2018-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2019-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2020-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2021-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2022-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VBL,2023-12,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2013-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2014-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2015-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2016-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2017-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2018-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2019-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2020-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2021-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2022-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2023-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,VEDL,2024-03,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2013-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2014-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2015-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2016-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2017-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2018-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2019-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2020-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2021-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2022-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2023-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,WIPRO,2024-03,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,cashflow,ZOMATO,2020-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,cashflow,ZOMATO,2021-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,cashflow,ZOMATO,2022-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,cashflow,ZOMATO,2023-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,cashflow,ZOMATO,2024-03,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2013-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2014-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2015-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2016-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2017-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2018-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2019-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2020-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2021-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2022-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2023-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2024-03,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2024,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2023,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2022,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2021,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2020,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2019,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2018,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2017,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2016,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2015,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2014,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2013,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2012,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2011,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2010,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,ULTRACEMCO,2009,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2024,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2023,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2022,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2021,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2020,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2019,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2018,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2017,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2016,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2015,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2014,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2013,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2012,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2011,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2010,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNIONBANK,2009,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2024,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2023,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2022,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2021,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2020,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2019,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2018,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2017,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2016,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2015,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2014,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2013,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2012,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2011,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2010,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,UNITDSPR,2009,company_id,Foreign key violation: company 'UNITDSPR' not in companies table,CRITICAL
+DQ-03,documents,VBL,2024,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2023,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2022,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2021,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2020,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2019,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2018,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2017,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2016,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2015,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2014,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2013,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2012,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2011,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2010,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VBL,2009,company_id,Foreign key violation: company 'VBL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2024,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2023,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2022,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2021,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2020,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2019,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2018,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2017,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2016,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2015,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2014,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2013,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2012,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2011,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2010,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,VEDL,2009,company_id,Foreign key violation: company 'VEDL' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2024,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2023,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2022,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2021,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2020,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2019,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2018,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2017,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2016,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2015,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2014,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2013,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2012,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2011,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2010,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,WIPRO,2009,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2024,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2023,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2022,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2021,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2020,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2019,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2018,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2017,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2016,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2015,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2014,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2013,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2012,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2011,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2010,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZOMATO,2009,company_id,Foreign key violation: company 'ZOMATO' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2024,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2023,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2022,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2021,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2020,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2019,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2018,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2017,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2016,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2015,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2014,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2013,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2012,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2011,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2010,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,documents,ZYDUSLIFE,2009,company_id,Foreign key violation: company 'ZYDUSLIFE' not in companies table,CRITICAL
+DQ-03,prosandcons,WIPRO,,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,prosandcons,WIPRO,,company_id,Foreign key violation: company 'WIPRO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2013-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2014-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2015-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2016-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2017-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2018-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2019-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2020-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2021-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2022-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2023-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2024-03,company_id,Foreign key violation: company 'ULTRACEMCO' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2013-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2014-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2015-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2016-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2017-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2018-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2019-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2020-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2021-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2022-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2023-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2024-03,company_id,Foreign key violation: company 'UNIONBANK' not in companies table,CRITICAL
+DQ-07,profitandloss,ABB,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ADANIENSOL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ADANIENT,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ADANIGREEN,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ADANIPORTS,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ADANIPORTS,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ADANIPOWER,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,AMBUJACEM,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,APOLLOHOSP,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ASIANPAINT,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ATGL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BAJAJ-AUTO,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,AXISBANK,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BAJAJFINSV,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BAJAJHLDNG,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BAJFINANCE,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BANKBARODA,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BHARTIARTL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BEL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BHEL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BOSCHLTD,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BPCL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,BRITANNIA,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,CANBK,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,CHOLAFIN,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,CIPLA,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,COALINDIA,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,DABUR,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,DIVISLAB,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,DLF,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,DMART,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,DRREDDY,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,EICHERMOT,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,GAIL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,GODREJCP,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,GRASIM,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HAL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HAVELLS,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HCLTECH,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HDFCBANK,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HDFCLIFE,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HEROMOTOCO,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HINDALCO,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,HINDUNILVR,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ICICIBANK,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ICICIGI,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ICICIPRULI,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,INDUSINDBK,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,INFY,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,IOC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,IRCTC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,IRFC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ITC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,JINDALSTEL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,JIOFIN,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,JSWENERGY,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,JSWSTEEL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,KOTAKBANK,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,LICI,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,LODHA,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,LT,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,LTIM,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,M&M,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,MARUTI,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,MOTHERSON,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,NAUKRI,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,NESTLEIND,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,NHPC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,NTPC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,ONGC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,PFC,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,PIDILITIND,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,PNB,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,POWERGRID,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,RECLTD,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,RELIANCE,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,SBILIFE,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,SBIN,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,SHREECEM,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,SHRIRAMFIN,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,SUNPHARMA,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TATACONSUM,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TATAMOTORS,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TATAPOWER,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TATASTEEL,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TCS,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TECHM,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TITAN,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TORNTPHARM,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TRENT,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,TVSMOTOR,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-07,profitandloss,INDIGO,PARSE_ERROR,year,Invalid financial year format: 'PARSE_ERROR' (expected YYYY-MM),CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2013-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2013-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2014-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2014-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2015-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2015-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2016-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2016-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2017-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2017-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2018-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2018-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2019-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2019-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2020-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2020-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2021-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2021-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2022-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2022-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2023-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2023-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2024-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2024-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2013-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2013-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2014-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2014-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2015-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2015-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2016-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2016-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2017-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2017-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2018-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2018-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2019-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2019-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2020-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2020-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2021-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2021-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2022-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2022-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2023-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2023-03)",CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2024-03,"(company_id, year)","Duplicate annual PK in profitandloss: (ADANIPORTS, 2024-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2013-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2014-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2015-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2016-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2017-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2018-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2019-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2020-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2021-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2022-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2023-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2024-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-09,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2024-09)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2013-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2014-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2015-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2016-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2017-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2018-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2019-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2020-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2021-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2022-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2023-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2024-03)",CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-09,"(company_id, year)","Duplicate annual PK in balancesheet: (ASIANPAINT, 2024-09)",CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2013-03)",CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2014-03)",CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2015-03)",CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2016-03)",CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2017-03)",CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2018-03)",CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2019-03)",CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2020-03)",CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2021-03)",CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2022-03)",CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2023-03)",CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2024-03)",CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2013-03)",CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2014-03)",CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2015-03)",CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2016-03)",CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2017-03)",CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2018-03)",CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2019-03)",CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2020-03)",CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2021-03)",CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2022-03)",CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2023-03)",CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2024-03)",CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2013-03)",CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2014-03)",CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2015-03)",CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2016-03)",CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2017-03)",CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2018-03)",CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2019-03)",CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2020-03)",CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2021-03)",CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2022-03)",CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2023-03)",CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2024-03)",CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2013-03)",CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2014-03)",CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2015-03)",CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2016-03)",CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2017-03)",CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2018-03)",CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2019-03)",CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2020-03)",CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2021-03)",CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2022-03)",CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2023-03)",CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2024-03)",CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2013-03)",CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2014-03)",CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2015-03)",CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2016-03)",CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2017-03)",CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2018-03)",CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2019-03)",CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2020-03)",CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2021-03)",CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2022-03)",CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2023-03)",CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (PNB, 2024-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2013-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2014-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2015-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2016-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2017-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2018-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2019-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2020-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2021-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2022-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2023-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2024-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-09,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2024-09)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2013-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2014-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2015-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2016-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2017-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2018-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2019-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2020-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2021-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2022-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2023-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2024-03)",CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-09,"(company_id, year)","Duplicate annual PK in balancesheet: (POWERGRID, 2024-09)",CRITICAL
+DQ-02,balancesheet,TECHM,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2013-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2014-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2015-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2016-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2017-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2018-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2019-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2020-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2021-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2022-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2023-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2024-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2024-09,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2024-09)",CRITICAL
+DQ-02,balancesheet,TECHM,2013-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2013-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2014-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2014-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2015-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2015-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2016-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2016-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2017-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2017-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2018-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2018-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2019-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2019-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2020-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2020-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2021-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2021-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2022-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2022-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2023-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2023-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2024-03,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2024-03)",CRITICAL
+DQ-02,balancesheet,TECHM,2024-09,"(company_id, year)","Duplicate annual PK in balancesheet: (TECHM, 2024-09)",CRITICAL
+DQ-02,cashflow,TCS,2013-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2013-03)",CRITICAL
+DQ-02,cashflow,TCS,2014-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2014-03)",CRITICAL
+DQ-02,cashflow,TCS,2015-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2015-03)",CRITICAL
+DQ-02,cashflow,TCS,2016-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2016-03)",CRITICAL
+DQ-02,cashflow,TCS,2017-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2017-03)",CRITICAL
+DQ-02,cashflow,TCS,2018-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2018-03)",CRITICAL
+DQ-02,cashflow,TCS,2019-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2019-03)",CRITICAL
+DQ-02,cashflow,TCS,2020-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2020-03)",CRITICAL
+DQ-02,cashflow,TCS,2021-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2021-03)",CRITICAL
+DQ-02,cashflow,TCS,2022-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2022-03)",CRITICAL
+DQ-02,cashflow,TCS,2023-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2023-03)",CRITICAL
+DQ-02,cashflow,TCS,2024-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2024-03)",CRITICAL
+DQ-02,cashflow,ABB,2014-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2014-03)",CRITICAL
+DQ-02,cashflow,ABB,2015-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2015-03)",CRITICAL
+DQ-02,cashflow,ABB,2016-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2016-03)",CRITICAL
+DQ-02,cashflow,ABB,2017-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2017-03)",CRITICAL
+DQ-02,cashflow,ABB,2018-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2018-03)",CRITICAL
+DQ-02,cashflow,ABB,2019-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2019-03)",CRITICAL
+DQ-02,cashflow,ABB,2020-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2020-03)",CRITICAL
+DQ-02,cashflow,ABB,2021-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2021-03)",CRITICAL
+DQ-02,cashflow,ABB,2022-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2022-03)",CRITICAL
+DQ-02,cashflow,ABB,2023-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2023-03)",CRITICAL
+DQ-02,cashflow,ABB,2024-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2024-03)",CRITICAL
+DQ-02,cashflow,ABB,2014-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2014-03)",CRITICAL
+DQ-02,cashflow,ABB,2015-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2015-03)",CRITICAL
+DQ-02,cashflow,ABB,2016-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2016-03)",CRITICAL
+DQ-02,cashflow,ABB,2017-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2017-03)",CRITICAL
+DQ-02,cashflow,ABB,2018-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2018-03)",CRITICAL
+DQ-02,cashflow,ABB,2019-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2019-03)",CRITICAL
+DQ-02,cashflow,ABB,2020-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2020-03)",CRITICAL
+DQ-02,cashflow,ABB,2021-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2021-03)",CRITICAL
+DQ-02,cashflow,ABB,2022-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2022-03)",CRITICAL
+DQ-02,cashflow,ABB,2023-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2023-03)",CRITICAL
+DQ-02,cashflow,ABB,2024-03,"(company_id, year)","Duplicate annual PK in cashflow: (ABB, 2024-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2013-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2013-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2014-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2014-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2015-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2015-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2016-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2016-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2017-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2017-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2018-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2018-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2019-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2019-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2020-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2020-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2021-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2021-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2022-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2022-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2023-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2023-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2024-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2024-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2013-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2013-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2014-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2014-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2015-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2015-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2016-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2016-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2017-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2017-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2018-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2018-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2019-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2019-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2020-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2020-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2021-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2021-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2022-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2022-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2023-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2023-03)",CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2024-03,"(company_id, year)","Duplicate annual PK in cashflow: (BAJAJ-AUTO, 2024-03)",CRITICAL
+DQ-02,cashflow,TCS,2013-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2013-03)",CRITICAL
+DQ-02,cashflow,TCS,2014-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2014-03)",CRITICAL
+DQ-02,cashflow,TCS,2015-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2015-03)",CRITICAL
+DQ-02,cashflow,TCS,2016-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2016-03)",CRITICAL
+DQ-02,cashflow,TCS,2017-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2017-03)",CRITICAL
+DQ-02,cashflow,TCS,2018-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2018-03)",CRITICAL
+DQ-02,cashflow,TCS,2019-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2019-03)",CRITICAL
+DQ-02,cashflow,TCS,2020-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2020-03)",CRITICAL
+DQ-02,cashflow,TCS,2021-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2021-03)",CRITICAL
+DQ-02,cashflow,TCS,2022-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2022-03)",CRITICAL
+DQ-02,cashflow,TCS,2023-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2023-03)",CRITICAL
+DQ-02,cashflow,TCS,2024-03,"(company_id, year)","Duplicate annual PK in cashflow: (TCS, 2024-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2014-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2014-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2015-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2015-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2016-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2016-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2017-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2017-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2018-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2018-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2019-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2019-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2020-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2020-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2021-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2021-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2022-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2022-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2023-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2023-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2024-03)",CRITICAL
+DQ-02,financial_ratios,ABB,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ABB, 2024-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2013-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2014-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2015-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2016-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2017-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2018-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2019-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2020-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2021-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2022-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2023-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2024-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2013-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2014-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2015-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2016-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2017-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2018-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2019-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2020-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2021-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2022-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2023-03)",CRITICAL
+DQ-02,financial_ratios,ADANIPORTS,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ADANIPORTS, 2024-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2013-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2013-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2014-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2014-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2015-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2015-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2016-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2016-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2017-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2017-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2018-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2018-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2019-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2019-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2020-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2020-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2021-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2021-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2022-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2022-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2023-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2023-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2024-03)",CRITICAL
+DQ-02,financial_ratios,ASIANPAINT,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (ASIANPAINT, 2024-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2013-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2013-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2014-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2014-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2015-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2015-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2016-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2016-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2017-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2017-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2018-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2018-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2019-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2019-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2020-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2020-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2021-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2021-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2022-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2022-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2023-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2023-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2024-03)",CRITICAL
+DQ-02,financial_ratios,BAJAJ-AUTO,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (BAJAJ-AUTO, 2024-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2013-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2013-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2013-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2013-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2013-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2014-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2014-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2014-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2014-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2014-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2015-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2015-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2015-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2015-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2015-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2016-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2016-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2016-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2016-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2016-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2017-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2017-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2017-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2017-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2017-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2018-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2018-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2018-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2018-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2018-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2019-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2019-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2019-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2019-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2019-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2020-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2020-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2020-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2020-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2020-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2021-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2021-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2021-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2021-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2021-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2022-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2022-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2022-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2022-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2022-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2023-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2023-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2023-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2023-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2023-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2024-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2024-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2024-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2024-03)",CRITICAL
+DQ-02,financial_ratios,PNB,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (PNB, 2024-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2013-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2013-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2014-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2014-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2015-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2015-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2016-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2016-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2017-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2017-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2018-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2018-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2019-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2019-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2020-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2020-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2021-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2021-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2022-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2022-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2023-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2023-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2024-03)",CRITICAL
+DQ-02,financial_ratios,POWERGRID,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (POWERGRID, 2024-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2013-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2013-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2013-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2014-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2014-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2014-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2015-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2015-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2015-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2016-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2016-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2016-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2017-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2017-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2017-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2018-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2018-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2018-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2019-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2019-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2019-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2020-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2020-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2020-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2021-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2021-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2021-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2022-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2022-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2022-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2023-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2023-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2023-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2024-03)",CRITICAL
+DQ-02,financial_ratios,TECHM,2024-03,"(company_id, year)","Duplicate annual PK in financial_ratios: (TECHM, 2024-03)",CRITICAL
+DQ-05,profitandloss,ADANIENSOL,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=30.0%, Computed=34.39%",WARNING
+DQ-05,profitandloss,AXISBANK,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1353.0%, Computed=30.58%",WARNING
+DQ-05,profitandloss,AXISBANK,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2307.0%, Computed=31.47%",WARNING
+DQ-05,profitandloss,AXISBANK,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3097.0%, Computed=31.36%",WARNING
+DQ-05,profitandloss,AXISBANK,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3466.0%, Computed=32.61%",WARNING
+DQ-05,profitandloss,AXISBANK,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-5715.0%, Computed=53.45%",WARNING
+DQ-05,profitandloss,AXISBANK,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-10277.0%, Computed=63.12%",WARNING
+DQ-05,profitandloss,AXISBANK,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-5447.0%, Computed=49.39%",WARNING
+DQ-05,profitandloss,AXISBANK,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-9859.0%, Computed=55.98%",WARNING
+DQ-05,profitandloss,AXISBANK,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-2510.0%, Computed=50.12%",WARNING
+DQ-05,profitandloss,AXISBANK,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3170.0%, Computed=44.47%",WARNING
+DQ-05,profitandloss,AXISBANK,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=13857.0%, Computed=34.16%",WARNING
+DQ-05,profitandloss,AXISBANK,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=11952.0%, Computed=34.69%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1367.0%, Computed=32.49%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1986.0%, Computed=32.25%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2867.0%, Computed=32.60%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3935.0%, Computed=32.28%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=6310.0%, Computed=29.50%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=7608.0%, Computed=34.73%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=6314.0%, Computed=40.64%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=9906.0%, Computed=37.55%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=16018.0%, Computed=30.65%",WARNING
+DQ-05,profitandloss,BAJFINANCE,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=19987.0%, Computed=29.29%",WARNING
+DQ-05,profitandloss,BANKBARODA,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1006.0%, Computed=30.05%",WARNING
+DQ-05,profitandloss,BANKBARODA,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=809.0%, Computed=29.78%",WARNING
+DQ-05,profitandloss,BANKBARODA,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=902.0%, Computed=29.98%",WARNING
+DQ-05,profitandloss,BANKBARODA,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-11700.0%, Computed=55.44%",WARNING
+DQ-05,profitandloss,BANKBARODA,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-4372.0%, Computed=43.28%",WARNING
+DQ-05,profitandloss,BANKBARODA,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-9197.0%, Computed=56.65%",WARNING
+DQ-05,profitandloss,BANKBARODA,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-5414.0%, Computed=48.79%",WARNING
+DQ-05,profitandloss,BANKBARODA,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-11728.0%, Computed=51.44%",WARNING
+DQ-05,profitandloss,BANKBARODA,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-6957.0%, Computed=51.23%",WARNING
+DQ-05,profitandloss,BANKBARODA,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-2948.0%, Computed=51.12%",WARNING
+DQ-05,profitandloss,BANKBARODA,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=6329.0%, Computed=40.45%",WARNING
+DQ-05,profitandloss,BANKBARODA,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4102.0%, Computed=37.49%",WARNING
+DQ-05,profitandloss,CANBK,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=655.0%, Computed=21.18%",WARNING
+DQ-05,profitandloss,CANBK,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-672.0%, Computed=24.35%",WARNING
+DQ-05,profitandloss,CANBK,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-621.0%, Computed=23.51%",WARNING
+DQ-05,profitandloss,CANBK,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-8008.0%, Computed=40.38%",WARNING
+DQ-05,profitandloss,CANBK,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-5775.0%, Computed=37.85%",WARNING
+DQ-05,profitandloss,CANBK,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-13350.0%, Computed=61.87%",WARNING
+DQ-05,profitandloss,CANBK,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-11590.0%, Computed=56.73%",WARNING
+DQ-05,profitandloss,CANBK,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-12867.0%, Computed=53.88%",WARNING
+DQ-05,profitandloss,CANBK,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-18367.0%, Computed=61.83%",WARNING
+DQ-05,profitandloss,CANBK,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-13657.0%, Computed=58.39%",WARNING
+DQ-05,profitandloss,CANBK,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-9877.0%, Computed=49.80%",WARNING
+DQ-05,profitandloss,CANBK,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-7745.0%, Computed=41.75%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=472.0%, Computed=26.77%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=578.0%, Computed=28.42%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=696.0%, Computed=28.56%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=899.0%, Computed=30.04%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1143.0%, Computed=28.16%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1451.0%, Computed=26.10%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1888.0%, Computed=22.96%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1699.0%, Computed=27.79%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2094.0%, Computed=30.40%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2924.0%, Computed=28.83%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3515.0%, Computed=28.10%",WARNING
+DQ-05,profitandloss,CHOLAFIN,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4548.0%, Computed=28.10%",WARNING
+DQ-05,profitandloss,CIPLA,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2214.0%, Computed=73.26%",WARNING
+DQ-05,profitandloss,CIPLA,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2147.0%, Computed=78.90%",WARNING
+DQ-05,profitandloss,CIPLA,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2163.0%, Computed=80.94%",WARNING
+DQ-05,profitandloss,CIPLA,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2480.0%, Computed=82.02%",WARNING
+DQ-05,profitandloss,CIPLA,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2496.0%, Computed=82.66%",WARNING
+DQ-05,profitandloss,CIPLA,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2826.0%, Computed=81.35%",WARNING
+DQ-05,profitandloss,CIPLA,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3097.0%, Computed=81.07%",WARNING
+DQ-05,profitandloss,CIPLA,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3206.0%, Computed=81.29%",WARNING
+DQ-05,profitandloss,CIPLA,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4252.0%, Computed=77.80%",WARNING
+DQ-05,profitandloss,CIPLA,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4553.0%, Computed=79.08%",WARNING
+DQ-05,profitandloss,CIPLA,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=5027.0%, Computed=77.91%",WARNING
+DQ-05,profitandloss,CIPLA,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=6291.0%, Computed=75.59%",WARNING
+DQ-05,profitandloss,COALINDIA,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=18087.0%, Computed=73.52%",WARNING
+DQ-05,profitandloss,COALINDIA,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=17766.0%, Computed=74.84%",WARNING
+DQ-05,profitandloss,COALINDIA,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=17343.0%, Computed=76.60%",WARNING
+DQ-05,profitandloss,COALINDIA,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=18714.0%, Computed=75.96%",WARNING
+DQ-05,profitandloss,COALINDIA,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=12448.0%, Computed=84.07%",WARNING
+DQ-05,profitandloss,COALINDIA,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=9288.0%, Computed=89.10%",WARNING
+DQ-05,profitandloss,COALINDIA,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=25007.0%, Computed=74.89%",WARNING
+DQ-05,profitandloss,COALINDIA,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=21581.0%, Computed=77.54%",WARNING
+DQ-05,profitandloss,COALINDIA,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=18628.0%, Computed=79.31%",WARNING
+DQ-05,profitandloss,COALINDIA,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=24721.0%, Computed=77.47%",WARNING
+DQ-05,profitandloss,COALINDIA,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=44232.0%, Computed=68.01%",WARNING
+DQ-05,profitandloss,COALINDIA,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=47971.0%, Computed=66.29%",WARNING
+DQ-05,profitandloss,HDFCBANK,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3534.0%, Computed=35.22%",WARNING
+DQ-05,profitandloss,HDFCBANK,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=5602.0%, Computed=31.74%",WARNING
+DQ-05,profitandloss,HDFCBANK,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=7214.0%, Computed=31.90%",WARNING
+DQ-05,profitandloss,HDFCBANK,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=9037.0%, Computed=31.75%",WARNING
+DQ-05,profitandloss,HDFCBANK,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=11374.0%, Computed=32.56%",WARNING
+DQ-05,profitandloss,HDFCBANK,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=13374.0%, Computed=34.63%",WARNING
+DQ-05,profitandloss,HDFCBANK,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=16592.0%, Computed=33.15%",WARNING
+DQ-05,profitandloss,HDFCBANK,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=14593.0%, Computed=37.20%",WARNING
+DQ-05,profitandloss,HDFCBANK,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=16848.0%, Computed=40.81%",WARNING
+DQ-05,profitandloss,HDFCBANK,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=20795.0%, Computed=41.61%",WARNING
+DQ-05,profitandloss,HDFCBANK,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=29932.0%, Computed=36.92%",WARNING
+DQ-05,profitandloss,HDFCBANK,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-44685.0%, Computed=61.41%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=525.0%, Computed=96.27%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=605.0%, Computed=96.48%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=874.0%, Computed=96.79%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=953.0%, Computed=94.74%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=972.0%, Computed=96.83%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1074.0%, Computed=96.67%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1215.0%, Computed=96.87%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1141.0%, Computed=96.12%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1235.0%, Computed=98.27%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=778.0%, Computed=98.84%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=80.0%, Computed=99.89%",WARNING
+DQ-05,profitandloss,HDFCLIFE,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=531.0%, Computed=99.48%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3553.0%, Computed=85.94%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3520.0%, Computed=87.22%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4424.0%, Computed=84.45%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4585.0%, Computed=83.97%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=5334.0%, Computed=83.57%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=5025.0%, Computed=85.21%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4070.0%, Computed=86.09%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4058.0%, Computed=86.90%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3256.0%, Computed=88.98%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4099.0%, Computed=88.00%",WARNING
+DQ-05,profitandloss,HEROMOTOCO,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=5235.0%, Computed=86.15%",WARNING
+DQ-05,profitandloss,HINDALCO,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=7699.0%, Computed=90.40%",WARNING
+DQ-05,profitandloss,HINDALCO,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=8024.0%, Computed=90.85%",WARNING
+DQ-05,profitandloss,HINDALCO,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=8844.0%, Computed=91.52%",WARNING
+DQ-05,profitandloss,HINDALCO,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=7778.0%, Computed=92.12%",WARNING
+DQ-05,profitandloss,HINDALCO,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=12317.0%, Computed=87.71%",WARNING
+DQ-05,profitandloss,HINDALCO,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=13695.0%, Computed=88.11%",WARNING
+DQ-05,profitandloss,HINDALCO,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=15511.0%, Computed=88.12%",WARNING
+DQ-05,profitandloss,HINDALCO,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=14306.0%, Computed=87.89%",WARNING
+DQ-05,profitandloss,HINDALCO,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=17559.0%, Computed=86.70%",WARNING
+DQ-05,profitandloss,HINDALCO,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=28347.0%, Computed=85.47%",WARNING
+DQ-05,profitandloss,HINDALCO,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=22666.0%, Computed=89.85%",WARNING
+DQ-05,profitandloss,HINDALCO,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=23872.0%, Computed=88.95%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4220.0%, Computed=84.37%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4759.0%, Computed=83.72%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=5412.0%, Computed=83.07%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=5910.0%, Computed=81.64%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=6328.0%, Computed=80.92%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=7499.0%, Computed=78.90%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=8880.0%, Computed=77.41%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=9861.0%, Computed=75.21%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=11626.0%, Computed=75.28%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=12857.0%, Computed=75.49%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=14147.0%, Computed=76.65%",WARNING
+DQ-05,profitandloss,HINDUNILVR,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=14659.0%, Computed=76.32%",WARNING
+DQ-05,profitandloss,ICICIBANK,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-15085.0%, Computed=70.59%",WARNING
+DQ-05,profitandloss,ICICIBANK,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-13084.0%, Computed=66.40%",WARNING
+DQ-05,profitandloss,ICICIBANK,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-16120.0%, Computed=70.53%",WARNING
+DQ-05,profitandloss,ICICIBANK,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-26955.0%, Computed=88.12%",WARNING
+DQ-05,profitandloss,ICICIBANK,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-37737.0%, Computed=104.76%",WARNING
+DQ-05,profitandloss,ICICIBANK,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-44906.0%, Computed=117.12%",WARNING
+DQ-05,profitandloss,ICICIBANK,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-50971.0%, Computed=116.38%",WARNING
+DQ-05,profitandloss,ICICIBANK,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-45190.0%, Computed=100.62%",WARNING
+DQ-05,profitandloss,ICICIBANK,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-44805.0%, Computed=102.41%",WARNING
+DQ-05,profitandloss,ICICIBANK,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-26558.0%, Computed=84.69%",WARNING
+DQ-05,profitandloss,ICICIBANK,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-17341.0%, Computed=72.57%",WARNING
+DQ-05,profitandloss,ICICIBANK,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-14152.0%, Computed=62.41%",WARNING
+DQ-05,profitandloss,ICICIGI,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-178.0%, Computed=104.46%",WARNING
+DQ-05,profitandloss,ICICIGI,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-225.0%, Computed=105.19%",WARNING
+DQ-05,profitandloss,ICICIGI,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-221.0%, Computed=105.24%",WARNING
+DQ-05,profitandloss,ICICIGI,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=764.0%, Computed=87.34%",WARNING
+DQ-05,profitandloss,ICICIGI,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=919.0%, Computed=87.78%",WARNING
+DQ-05,profitandloss,ICICIGI,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-262.0%, Computed=103.79%",WARNING
+DQ-05,profitandloss,ICICIGI,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1669.0%, Computed=85.05%",WARNING
+DQ-05,profitandloss,ICICIGI,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1772.0%, Computed=84.61%",WARNING
+DQ-05,profitandloss,ICICIGI,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2072.0%, Computed=82.97%",WARNING
+DQ-05,profitandloss,ICICIGI,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1016.0%, Computed=93.66%",WARNING
+DQ-05,profitandloss,ICICIGI,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1264.0%, Computed=92.93%",WARNING
+DQ-05,profitandloss,ICICIGI,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2577.0%, Computed=87.42%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=745.0%, Computed=96.28%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1504.0%, Computed=93.13%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1655.0%, Computed=95.20%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1842.0%, Computed=91.17%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1806.0%, Computed=95.22%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1771.0%, Computed=95.44%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=541.0%, Computed=98.70%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-319.0%, Computed=101.52%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-390.0%, Computed=100.47%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-2163.0%, Computed=103.40%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-1757.0%, Computed=103.48%",WARNING
+DQ-05,profitandloss,ICICIPRULI,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-1829.0%, Computed=102.03%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=286.0%, Computed=27.88%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=335.0%, Computed=30.95%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=288.0%, Computed=32.33%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=329.0%, Computed=35.28%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=379.0%, Computed=39.46%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=942.0%, Computed=37.93%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-437.0%, Computed=41.70%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-553.0%, Computed=43.81%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-2469.0%, Computed=55.16%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-839.0%, Computed=51.39%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2067.0%, Computed=42.69%",WARNING
+DQ-05,profitandloss,INDUSINDBK,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2978.0%, Computed=38.55%",WARNING
+DQ-05,profitandloss,JIOFIN,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=88.0%, Computed=86.67%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-1789.0%, Computed=60.92%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-1379.0%, Computed=58.84%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-3366.0%, Computed=72.96%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-2263.0%, Computed=56.57%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-3965.0%, Computed=66.44%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-4141.0%, Computed=66.87%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-5114.0%, Computed=66.23%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-5005.0%, Computed=67.45%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-9958.0%, Computed=90.83%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-8512.0%, Computed=90.98%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-5746.0%, Computed=79.44%",WARNING
+DQ-05,profitandloss,KOTAKBANK,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-13382.0%, Computed=83.67%",WARNING
+DQ-05,profitandloss,SUNPHARMA,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=28.0%, Computed=26.84%",WARNING
+DQ-05,profitandloss,INDIGO,2013-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=855.0%, Computed=90.71%",WARNING
+DQ-05,profitandloss,INDIGO,2014-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=433.0%, Computed=96.11%",WARNING
+DQ-05,profitandloss,INDIGO,2015-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=1904.0%, Computed=86.33%",WARNING
+DQ-05,profitandloss,INDIGO,2016-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3164.0%, Computed=80.40%",WARNING
+DQ-05,profitandloss,INDIGO,2017-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2219.0%, Computed=88.06%",WARNING
+DQ-05,profitandloss,INDIGO,2018-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=3030.0%, Computed=86.84%",WARNING
+DQ-05,profitandloss,INDIGO,2019-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=-151.0%, Computed=100.53%",WARNING
+DQ-05,profitandloss,INDIGO,2020-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=4069.0%, Computed=88.62%",WARNING
+DQ-05,profitandloss,INDIGO,2021-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=2.0%, Computed=99.98%",WARNING
+DQ-05,profitandloss,INDIGO,2022-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=558.0%, Computed=97.85%",WARNING
+DQ-05,profitandloss,INDIGO,2023-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=6521.0%, Computed=88.02%",WARNING
+DQ-05,profitandloss,INDIGO,2024-03,opm_percentage,"OPM mismatch >= 1%: Source OPM=16331.0%, Computed=76.30%",WARNING
+DQ-06,profitandloss,ADANIENSOL,2014-03,sales,Non-positive sales in non-bank company: 0,WARNING
+DQ-11,profitandloss,ADANIENT,2014-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -64.0%",WARNING
+DQ-11,profitandloss,ADANIGREEN,2017-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -75.0%",WARNING
+DQ-11,profitandloss,ADANIGREEN,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -35.0%",WARNING
+DQ-11,profitandloss,ADANIGREEN,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -19.0%",WARNING
+DQ-11,profitandloss,ADANIPOWER,2014-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -79.0%",WARNING
+DQ-11,profitandloss,ADANIPOWER,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -47.0%",WARNING
+DQ-11,profitandloss,ADANIPOWER,2017-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -1.0%",WARNING
+DQ-11,profitandloss,ADANIPOWER,2023-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -40.0%",WARNING
+DQ-11,profitandloss,AMBUJACEM,2018-12,tax_percentage,"Tax rate out of bounds [0, 60]%: -2.0%",WARNING
+DQ-11,profitandloss,APOLLOHOSP,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 65.0%",WARNING
+DQ-11,profitandloss,AXISBANK,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -99.0%",WARNING
+DQ-11,profitandloss,AXISBANK,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 67.0%",WARNING
+DQ-11,profitandloss,BANKBARODA,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -19.0%",WARNING
+DQ-11,profitandloss,BANKBARODA,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -9.0%",WARNING
+DQ-11,profitandloss,BANKBARODA,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -99.0%",WARNING
+DQ-11,profitandloss,BANKBARODA,2021-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 77.0%",WARNING
+DQ-11,profitandloss,BHARTIARTL,2014-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 62.0%",WARNING
+DQ-11,profitandloss,BHARTIARTL,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -99.0%",WARNING
+DQ-11,profitandloss,BHARTIARTL,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -28.0%",WARNING
+DQ-11,profitandloss,BHARTIARTL,2021-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,BHEL,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -39.0%",WARNING
+DQ-11,profitandloss,BHEL,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 64.0%",WARNING
+DQ-11,profitandloss,BHEL,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,BHEL,2021-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -25.0%",WARNING
+DQ-11,profitandloss,BHEL,2024-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -16.0%",WARNING
+DQ-11,profitandloss,CANBK,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -13.0%",WARNING
+DQ-11,profitandloss,CANBK,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -36.0%",WARNING
+DQ-11,profitandloss,CANBK,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -99.0%",WARNING
+DQ-11,profitandloss,DLF,2014-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -16.0%",WARNING
+DQ-11,profitandloss,DLF,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,DRREDDY,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -7.0%",WARNING
+DQ-11,profitandloss,GODREJCP,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -12.0%",WARNING
+DQ-11,profitandloss,GODREJCP,2024-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,GRASIM,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -1.0%",WARNING
+DQ-11,profitandloss,HDFCLIFE,2024-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -61.0%",WARNING
+DQ-11,profitandloss,HINDALCO,2015-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 75.0%",WARNING
+DQ-11,profitandloss,HINDALCO,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,IOC,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -74.0%",WARNING
+DQ-11,profitandloss,IRFC,2013-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 64.0%",WARNING
+DQ-11,profitandloss,JINDALSTEL,2015-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -6.0%",WARNING
+DQ-11,profitandloss,JINDALSTEL,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -22.0%",WARNING
+DQ-11,profitandloss,JINDALSTEL,2017-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -17.0%",WARNING
+DQ-11,profitandloss,JINDALSTEL,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -13.0%",WARNING
+DQ-11,profitandloss,JINDALSTEL,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -14.0%",WARNING
+DQ-11,profitandloss,JSWENERGY,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 75.0%",WARNING
+DQ-11,profitandloss,JSWSTEEL,2014-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 70.0%",WARNING
+DQ-11,profitandloss,JSWSTEEL,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -80.0%",WARNING
+DQ-11,profitandloss,JSWSTEEL,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -30.0%",WARNING
+DQ-11,profitandloss,LICI,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 68.0%",WARNING
+DQ-11,profitandloss,LICI,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 80.0%",WARNING
+DQ-11,profitandloss,LICI,2021-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 76.0%",WARNING
+DQ-11,profitandloss,LICI,2022-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 66.0%",WARNING
+DQ-11,profitandloss,LODHA,2021-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -44.0%",WARNING
+DQ-11,profitandloss,LODHA,2023-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -8.0%",WARNING
+DQ-11,profitandloss,M&M,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,MOTHERSON,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -5.0%",WARNING
+DQ-11,profitandloss,NAUKRI,2015-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,NAUKRI,2017-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,NAUKRI,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 95.0%",WARNING
+DQ-11,profitandloss,NAUKRI,2023-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,NHPC,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -2.0%",WARNING
+DQ-11,profitandloss,NHPC,2022-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -17.0%",WARNING
+DQ-11,profitandloss,NTPC,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -2.0%",WARNING
+DQ-11,profitandloss,NTPC,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -25.0%",WARNING
+DQ-11,profitandloss,PNB,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -31.0%",WARNING
+DQ-11,profitandloss,PNB,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -37.0%",WARNING
+DQ-11,profitandloss,PNB,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -35.0%",WARNING
+DQ-11,profitandloss,POWERGRID,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -10.0%",WARNING
+DQ-11,profitandloss,SBIN,2017-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,SBIN,2018-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -66.0%",WARNING
+DQ-11,profitandloss,SHREECEM,2015-06,tax_percentage,"Tax rate out of bounds [0, 60]%: -6.0%",WARNING
+DQ-11,profitandloss,TATACONSUM,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TATAMOTORS,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -8.0%",WARNING
+DQ-11,profitandloss,TATAMOTORS,2024-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -14.0%",WARNING
+DQ-11,profitandloss,TATAPOWER,2013-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 92.0%",WARNING
+DQ-11,profitandloss,TATAPOWER,2014-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TATAPOWER,2015-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 72.0%",WARNING
+DQ-11,profitandloss,TATASTEEL,2013-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 78.0%",WARNING
+DQ-11,profitandloss,TATASTEEL,2015-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TATASTEEL,2016-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TATASTEEL,2017-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TATASTEEL,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -99.0%",WARNING
+DQ-11,profitandloss,TATASTEEL,2024-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TRENT,2013-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TRENT,2014-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 99.0%",WARNING
+DQ-11,profitandloss,TRENT,2021-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -12.0%",WARNING
+DQ-11,profitandloss,TRENT,2022-03,tax_percentage,"Tax rate out of bounds [0, 60]%: 69.0%",WARNING
+DQ-11,profitandloss,INDIGO,2019-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -99.0%",WARNING
+DQ-11,profitandloss,INDIGO,2020-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -10.0%",WARNING
+DQ-11,profitandloss,INDIGO,2024-03,tax_percentage,"Tax rate out of bounds [0, 60]%: -2.0%",WARNING
+DQ-12,profitandloss,BHARTIARTL,2019-03,dividend_payout,Excessive dividend payout > 200%: 244.0%,WARNING
+DQ-12,profitandloss,BRITANNIA,2021-03,dividend_payout,Excessive dividend payout > 200%: 204.0%,WARNING
+DQ-12,profitandloss,M&M,2020-03,dividend_payout,Excessive dividend payout > 200%: 205.0%,WARNING
+DQ-12,profitandloss,SBIN,2017-03,dividend_payout,Excessive dividend payout > 200%: 859.0%,WARNING
+DQ-12,profitandloss,TATAPOWER,2015-03,dividend_payout,Excessive dividend payout > 200%: 210.0%,WARNING
+DQ-14,profitandloss,JSWENERGY,2018-03,eps,EPS sign inconsistency: Net Profit=85 Cr but EPS=0.0,WARNING
+DQ-14,profitandloss,TATAPOWER,2013-03,eps,EPS sign inconsistency: Net Profit=123 Cr but EPS=0.0,WARNING
+DQ-14,profitandloss,TATAPOWER,2014-03,eps,EPS sign inconsistency: Net Profit=12 Cr but EPS=-1.0,WARNING
+DQ-09,cashflow,TVSMOTOR,2022-03,net_cash_flow,"Net cash flow mismatch > 10 Cr: Reported=532.0, Sum(CFO+CFI+CFF)=-128.00",WARNING
+DQ-16,multi_table,JIOFIN,,coverage,Company 'JIOFIN' has only 3 years of history (< 5 years required),WARNING

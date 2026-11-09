@@ -4,24 +4,30 @@ param (
     [string]$Target = "help"
 )
 
+# Detect virtual environment binaries
+$PYTHON = if (Test-Path ".\.venv\Scripts\python.exe") { ".\.venv\Scripts\python.exe" } else { "python" }
+$PYTEST = if (Test-Path ".\.venv\Scripts\pytest.exe") { ".\.venv\Scripts\pytest.exe" } else { "pytest" }
+$STREAMLIT = if (Test-Path ".\.venv\Scripts\streamlit.exe") { ".\.venv\Scripts\streamlit.exe" } else { "streamlit" }
+$UVICORN = if (Test-Path ".\.venv\Scripts\uvicorn.exe") { ".\.venv\Scripts\uvicorn.exe" } else { "uvicorn" }
+
 switch ($Target.ToLower()) {
     "load" {
-        python src/etl/loader.py
+        & $PYTHON src/etl/loader.py
     }
     "ratios" {
-        python src/analytics/ratios.py
+        & $PYTHON src/analytics/ratios.py
     }
     "test" {
-        pytest tests/ --html=reports/pytest_report.html --self-contained-html
+        & $PYTEST tests/ --html=reports/pytest_report.html --self-contained-html
     }
     "report" {
-        python src/reports/portfolio_report.py
+        & $PYTHON src/reports/portfolio_report.py
     }
     "dashboard" {
-        streamlit run src/dashboard/app.py
+        & $STREAMLIT run src/dashboard/app.py
     }
     "api" {
-        uvicorn src.api.main:app --port 8000 --reload
+        & $UVICORN src.api.main:app --port 8000 --reload
     }
     "clean" {
         Get-ChildItem -Recurse -Filter "__pycache__" | Remove-Item -Recurse -Force -ErrorAction SilentlyContinue

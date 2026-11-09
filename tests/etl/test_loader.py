@@ -137,3 +137,55 @@ def test_load_all_datasets():
     """Verify load_all_datasets returns all 12 datasets."""
     all_data = load_all_datasets()
     assert len(all_data) == 12
+
+
+def test_load_audit_file_exists():
+    """Verify load_audit.csv exists in output directory."""
+    from pathlib import Path
+
+    audit_file = Path("output/load_audit.csv")
+    assert audit_file.exists()
+
+
+def test_load_audit_columns():
+    """Verify load_audit.csv contains all mandatory audit columns."""
+    from pathlib import Path
+
+    audit_df = pd.read_csv(Path("output/load_audit.csv"))
+    expected_cols = {
+        "table",
+        "rows_in",
+        "rows_out",
+        "rejected",
+        "timestamp",
+        "runtime_s",
+    }
+    assert expected_cols.issubset(audit_df.columns)
+
+
+def test_load_audit_table_count():
+    """Verify load_audit.csv reports all 12 platform tables."""
+    from pathlib import Path
+
+    audit_df = pd.read_csv(Path("output/load_audit.csv"))
+    assert len(audit_df) == 12
+
+
+def test_load_audit_row_math():
+    """Verify rows_in >= rows_out and rejected == rows_in - rows_out."""
+    from pathlib import Path
+
+    audit_df = pd.read_csv(Path("output/load_audit.csv"))
+    assert (audit_df["rows_in"] >= audit_df["rows_out"]).all()
+    assert (audit_df["rejected"] == audit_df["rows_in"] - audit_df["rows_out"]).all()
+
+
+def test_load_audit_companies_count():
+    """Verify companies table has exactly 92 rows with 0 rejections."""
+    from pathlib import Path
+
+    audit_df = pd.read_csv(Path("output/load_audit.csv"))
+    co_row = audit_df[audit_df["table"] == "companies"].iloc[0]
+    assert co_row["rows_in"] == 92
+    assert co_row["rows_out"] == 92
+    assert co_row["rejected"] == 0
