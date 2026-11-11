@@ -1,0 +1,23 @@
+company_id,year,broad_sector,sub_sector,source_roce,computed_roce,treatment
+AXISBANK,2024-03,Financials,Private Banks,7.06,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+BAJAJFINSV,2024-03,Financials,Diversified Financials,21.14,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+BAJAJHLDNG,2024-03,Financials,Holding Companies,13.1,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+BAJFINANCE,2024-03,Financials,Consumer Finance,11.9,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+BANKBARODA,2024-03,Financials,Public Sector Banks,6.33,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+CANBK,2024-03,Financials,Public Sector Banks,6.63,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+CHOLAFIN,2024-03,Financials,Consumer Finance,10.4,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+HDFCBANK,2024-03,Financials,Private Banks,7.67,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+HDFCLIFE,2024-03,Financials,Life Insurance,6.61,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+ICICIBANK,2024-03,Financials,Private Banks,7.6,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+ICICIGI,2024-03,Financials,General Insurance,22.5,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+ICICIPRULI,2024-03,Financials,Life Insurance,8.75,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+INDUSINDBK,2024-03,Financials,Private Banks,7.93,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+IRFC,2024-03,Financials,Speciality Finance,5.73,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+JIOFIN,2024-03,Financials,Diversified Financials,2.16,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+KOTAKBANK,2024-03,Financials,Private Banks,7.86,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+LICI,2024-03,Financials,Life Insurance,63.79,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+PFC,2024-03,Financials,Speciality Finance,9.96,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+PNB,2024-03,Financials,Public Sector Banks,1.63,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+RECLTD,2024-03,Financials,Speciality Finance,10,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+SBILIFE,2024-03,Financials,Life Insurance,13.2,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
+SHRIRAMFIN,2024-03,Financials,Consumer Finance,11.3,,Carved out: ROCE suppressed to None; ROA used as bank profitability proxy
